@@ -38,8 +38,3 @@ The script will either:
 - It validates the sorting by comparing timestamps of consecutive articles
 - The script is designed to work with the current Hacker News layout
 
-
-## Output
-The script will either:
-- Pass: Confirm 100 articles are properly sorted
-- Fail: Exit with error if articles are not sorted or if unable to find 100 articles
